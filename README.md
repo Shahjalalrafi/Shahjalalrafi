@@ -155,25 +155,6 @@ Beyond my professional work, I'm an **AWS Community Builder (Containers)** and t
 
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shahjalalrafi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahjalalrafi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shahjalalrafi&theme=tokyonight&hide_border=true"/>
-
-</p>
----
-
 <div align="center">
 
 ### 💡 "Great software isn't just built—it is thoughtfully engineered, automated, and continuously improved."
